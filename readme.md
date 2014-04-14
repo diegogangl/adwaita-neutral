@@ -15,7 +15,7 @@ Wikipedia](http://en.wikipedia.org/wiki/Color_vision#Subjectivity_of_color_perce
 The light version is not touched. Based on 3.10.
 
 ## Screens
-![gThumb](screens/gThumb.png)
+![gThumb](screens/gthumb.png)
 ![gThumb](screens/weather.png)
 
 
